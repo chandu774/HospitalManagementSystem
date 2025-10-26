@@ -67,17 +67,6 @@ Developed by Chandu
 
 ⭐ If you find this project useful, feel free to star the repo or share your feedback!
 
-vbnet
-Copy code
-
----
-
-✅ **Next step:**  
-- Save this file as `README.md` in your project folder.  
-- Upload or push it to your GitHub repository (`HospitalManagementSystem`).  
-
-Would you like me to now prepare your **LinkedIn post text** with your real GitHub link inserted too (so you can copy-paste that next)?
-
 
 
 
