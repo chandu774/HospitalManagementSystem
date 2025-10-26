@@ -33,4 +33,4 @@ A console-based **Hospital Management System** built in Java to manage doctors, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/HospitalManagementSystem.git
+   git clone https://github.com/chandu774/HospitalManagementSystem.git
